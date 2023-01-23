@@ -135,5 +135,6 @@ fn main() -> Result<(), Box<dyn Error>> {
             }
         }
     };
+    window.delwin();
     Ok(())
 }
