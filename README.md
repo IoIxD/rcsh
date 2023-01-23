@@ -4,6 +4,10 @@
 
 Unlike that silly `csh` where certain features and functions are added to make it more appropriate as a shell, this literally just pipes what you type into it into gcc.
 
+![image](https://user-images.githubusercontent.com/30945097/213958078-1ec46549-8a5c-45ef-aa87-e663d3e307fa.png)
+![image](https://user-images.githubusercontent.com/30945097/213957965-7d1b3eec-d5d9-49b2-8001-976169009374.png)
+![image](https://user-images.githubusercontent.com/30945097/213958671-5687ca6e-d1e4-44a5-a597-4b026ed83428.png)
+
 Have fun!
 
 ## principles of rcsh
